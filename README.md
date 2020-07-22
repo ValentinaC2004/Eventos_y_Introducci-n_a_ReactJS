@@ -1,2 +1,2 @@
-# Eventos_y_Introducci-n_a_ReactJS
+# Eventos_y_Introducción_a_ReactJS
 Created with CodeSandbox
